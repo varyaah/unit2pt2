@@ -1,0 +1,6 @@
+h2{text-align:center; color:blue; background: #EFEFEF}
+body{margin: 4em; width: 400px}
+table{margin: 2em; padding: 1em;}
+th{background: #EFEFFF}
+tr.even {background: #B8B8B8}
+tr.odd {background: #E0FFFF}
